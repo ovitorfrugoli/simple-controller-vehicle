@@ -8,7 +8,3 @@ Foi um sistema feito para estudar algumas funções e algumas lógicas de progra
 ## Depêndencias
 
 Este filterscript utilizam duas includes: a_samp e zcmd.
-
-### Contato
-
-Contato via Discord: Vitor Santos#0001 
